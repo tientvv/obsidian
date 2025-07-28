@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "right": {
     "id": "f17372339dd01258",
@@ -163,10 +163,20 @@
   },
   "active": "a9152d91e8913175",
   "lastOpenFiles": [
+    "language-learning/english/04-test-practice",
+    "language-learning/english/03-skill-practice",
+    "language-learning/english/02-toefl-format-basics",
+    "language-learning/english/01-english-foundation",
+    "language-learning/english/01-english-foundation/grammar/english-grammar-in-use",
+    "language-learning/english/01-english-foundation/grammar",
+    "language-learning/english/vocabulary/books/Untitled.md",
+    "language-learning/english/vocabulary/oxford-word-skills-basic/2025-07-28.md",
+    "language-learning/english/01-english-foundation/vocabulary/oxford-word-skills-basic",
+    "language-learning/english/Untitled.md",
+    "language-learning/english/vocabulary/books",
+    "language-learning/english/01-english-foundation/vocabulary",
+    "README.md",
     "programming-learning/python",
-    "language-learning/english",
-    "programming-learning",
-    "language-learning",
-    "README.md"
+    "language-learning/english"
   ]
 }
