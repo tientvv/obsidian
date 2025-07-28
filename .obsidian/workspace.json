@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "deecfc7465655e74",
+        "id": "51eb91db9fb5537d",
         "type": "tabs",
         "children": [
           {
-            "id": "850583c11242edac",
+            "id": "fddfe52794e32a78",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "850583c11242edac",
+  "active": "a9152d91e8913175",
   "lastOpenFiles": [
+    "programming-learning/python",
+    "language-learning/english",
     "programming-learning",
     "language-learning",
     "README.md"
