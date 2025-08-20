@@ -11,10 +11,17 @@
             "id": "fddfe52794e32a78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -161,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9152d91e8913175",
+  "active": "fddfe52794e32a78",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "language-learning/english/04-test-practice",
     "language-learning/english/03-skill-practice",
     "language-learning/english/02-toefl-format-basics",
@@ -176,7 +184,6 @@
     "language-learning/english/vocabulary/books",
     "language-learning/english/01-english-foundation/vocabulary",
     "README.md",
-    "programming-learning/python",
-    "language-learning/english"
+    "programming-learning/python"
   ]
 }
